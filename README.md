@@ -42,11 +42,8 @@ Here are a few things I’ve worked on:
 <p align="left">
   <a href="mailto:bhavishyasundari@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/Bhavishya Sundari"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  </a>
-  <a href="https://www.codechef.com/users/bhavishya16" target="_blank">
-    <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  <a href="https://codeforces.com/profile/bhavishya16"><img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+  <a href="https://www.codechef.com/users/bhavishya16"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 </p>
 
 ---
