@@ -8,7 +8,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Pursuing **B.Tech in Computer Science (AI & ML) , G Narayanamma Institute of technology & Science** – 2nd Year  
+- 🎓 Pursuing **B.Tech in Computer Science (AI & ML) , G Narayanamma Institute of technology & Science** – 2nd Year , expected to graduate in 2027.  
 - 🧠 Learning **Python, Java**  
 - 🔭 Currently working on Hobby project (Vision Mate)  
 - 🌱 Exploring **DSA, NLP**  
