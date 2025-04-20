@@ -1,7 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Sundari Bhavishya</h1>
 <h3 align="center">2nd Year B.Tech CSE (AI & ML) Student | Aspiring Data Scientist | Tech Explorer 🚀</h3>
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
+<img align="right" alt="Female Engineer" width="250" src="https://easy-peasy.ai/cdn-cgi/image/quality=70,format=auto,width=300/https://media.easy-peasy.ai/b25af03d-cc35-4abf-8a59-c122668a89cc/b0bea3c4-618d-451a-99df-9f993f414d0c.png">
+
 
 ---
 
@@ -39,9 +40,13 @@ Here are a few things I’ve worked on:
 ### 📬 Connect with Me
 
 <p align="left">
-  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:bhavishyasundari@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/Bhavishya Sundari"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+  <a href="https://www.codechef.com/users/bhavishya16" target="_blank">
+    <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </p>
 
 ---
